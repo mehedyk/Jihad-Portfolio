@@ -8,7 +8,7 @@ Create a folder on your PC, name it anything e.g. `jony-portfolio`. Put everythi
 jony-portfolio/
 ├── index.html                   ← rename jony-portfolio.html to this
 ├── JONY.pdf                     ← your CV file (already named correctly)
-├── IMG-20260318-WA0002.jpg      ← hero photo (corridor, black shirt)
+├── hero.jpg      ← hero photo (corridor, black shirt)
 ├── about.jpg      ← about photo (library, sitting)
 └── SETUP.md                     ← this file (optional, can delete)
 ```
