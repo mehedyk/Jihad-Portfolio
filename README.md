@@ -9,7 +9,7 @@ jony-portfolio/
 ├── index.html                   ← rename jony-portfolio.html to this
 ├── JONY.pdf                     ← your CV file (already named correctly)
 ├── IMG-20260318-WA0002.jpg      ← hero photo (corridor, black shirt)
-├── IMG-20260318-WA0003.jpg      ← about photo (library, sitting)
+├── about.jpg      ← about photo (library, sitting)
 └── SETUP.md                     ← this file (optional, can delete)
 ```
 
