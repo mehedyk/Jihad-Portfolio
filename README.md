@@ -10,7 +10,7 @@ jony-portfolio/
 ├── JONY.pdf                     ← your CV file (already named correctly)
 ├── hero.jpg      ← hero photo (corridor, black shirt)
 ├── about.jpg      ← about photo (library, sitting)
-└── SETUP.md                     ← this file (optional, can delete)
+└── README.md                     ← this file (optional, can delete)
 ```
 
 > **Important:** The two image paths in the HTML still point to `/mnt/user-data/uploads/...` from when it was built. Before deploying, open `index.html` in a text editor (Notepad++, VS Code, anything) and do a Find & Replace:
